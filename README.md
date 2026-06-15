@@ -16,7 +16,7 @@ A Python command-line application designed to help students track and manage the
 * **Export expense data** to TXT and CSV reports.
 * **Persistent storage** using JSON so data remains available across sessions.
 
-  ---
+---
 
 ## 🛠️ Technologies Used
 * Python 3
