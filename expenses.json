@@ -1,0 +1,29 @@
+{
+    "expenses": [
+        {
+            "id": "A1B2C3",
+            "date": "2026-06-10",
+            "amount": 450.0,
+            "category": "Food"
+        },
+        {
+            "id": "X9Y8Z7",
+            "date": "2026-06-12",
+            "amount": 1200.0,
+            "category": "Travel"
+        },
+        {
+            "id": "M4N5P6",
+            "date": "2026-06-15",
+            "amount": 399.0,
+            "category": "Recharge"
+        },
+        {
+            "id": "D2591E",
+            "date": "2026-06-20",
+            "amount": 500.0,
+            "category": "Food"
+        }
+    ],
+    "budget": 5000.0
+}
