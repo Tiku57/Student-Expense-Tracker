@@ -2,6 +2,8 @@
 
 A Python command-line application designed to help students track and manage their daily expenses such as food, travel, recharge, and other categories. The application stores data locally using JSON, making it lightweight, offline-friendly, and easy to use without any external dependencies.
 
+---
+
 ## ✨ Features
 * **Add a new expense** with date, amount, and category.
 * **View all recorded expenses** in a structured table format.
@@ -14,6 +16,8 @@ A Python command-line application designed to help students track and manage the
 * **Export expense data** to TXT and CSV reports.
 * **Persistent storage** using JSON so data remains available across sessions.
 
+  ---
+
 ## 🛠️ Technologies Used
 * Python 3
 * Dataclasses
@@ -22,9 +26,18 @@ A Python command-line application designed to help students track and manage the
 * Pathlib
 * Type Hints
 
+---
+
 ## 🚀 How to Run
 1. Ensure Python 3 is installed on your system.
 2. Open a terminal in the project directory.
 3. Run the following command:
    ```bash
    python3 expense_tracker.py
+   ```
+
+---
+👨‍💻 Author
+Aaditya Sattawan
+---
+GitHub: https://github.com/Tiku57
